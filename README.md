@@ -25,7 +25,7 @@ AIRNET AIRLINE  , A flight booking service made on microservices architecture
   * Message Queue Implementaion
     
  
-## Reminder Service [🔗]([https://github.com/Abhishekbotx/Reminder_Service.git](https://github.com/Abhishekbotx/Auth_Service/tree/master))
+## Reminder Service [🔗](https://github.com/Abhishekbotx/Reminder_Service.git](https://github.com/Abhishekbotx/Auth_Service/tree/master))
   
   * Nodemailer for message service
   * CronJobs for message scheduling
